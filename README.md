@@ -1,6 +1,4 @@
-# ETUDE-DU-CLIMAT-TOGOLAIS
-
-# **Description professionnelle du projet : Analyse de l’évolution climatique au Togo**
+# ETUDE DE L’EVOLUTION DU CLIMATTOGOLAIS
 
 Ce projet étudie l’évolution du climat au Togo et son impact sur trois dimensions essentielles :  
 - **la performance économique**,  
